@@ -5,7 +5,7 @@
     margin: auto;
   } */
 html body #MA{
-width: calc(100%-4px);
+width: 100%;
 }
 
 html body #MA article{
