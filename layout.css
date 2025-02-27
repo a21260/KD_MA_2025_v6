@@ -4,7 +4,9 @@
     max-width: 1250px;
     margin: auto;
   } */
-
+html body #MA{
+width: calc(100%-4px);
+}
 
 html body #MA article{
     padding: 60px 0px;
